@@ -1,0 +1,43 @@
+Top 40 Keywords with Frequencies:
+===============================
+
+anxiety: 24142
+people: 11285
+feel: 7462
+video: 7105
+think: 7080
+social: 5269
+depression: 5254
+love: 4582
+help: 4063
+friends: 3885
+much: 3878
+say: 3757
+time: 3753
+always: 3588
+everyone: 3423
+bad: 3408
+talk: 3358
+would: 3175
+hate: 3148
+cant: 3070
+make: 3042
+good: 2980
+life: 2953
+someone: 2930
+something: 2902
+things: 2854
+going: 2834
+got: 2800
+thing: 2768
+school: 2757
+lot: 2681
+thank: 2675
+never: 2666
+better: 2587
+problems: 2577
+still: 2433
+tell: 2420
+way: 2345
+see: 2313
+youre: 2295

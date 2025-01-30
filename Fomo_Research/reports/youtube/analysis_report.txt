@@ -1,0 +1,37 @@
+YouTube Comments Analysis Report
+==============================
+
+Dataset Statistics:
+Total comments analyzed: 54081
+Average sentiment score: 0.043
+Positive comments: 25892 (47.9%)
+Negative comments: 23388 (43.2%)
+Neutral comments: 4801 (8.9%)
+
+Sentiment Statistics:
+Maximum sentiment score: 0.999
+Minimum sentiment score: -1.000
+Median sentiment score: 0.000
+Standard deviation: 0.580
+
+Top 20 Keywords (NLTK Filtered):
+anxiety: 23944
+people: 11160
+feel: 7403
+think: 7022
+social: 5238
+depression: 5181
+love: 4584
+help: 4009
+much: 3838
+friends: 3834
+say: 3709
+time: 3696
+always: 3556
+everyone: 3382
+bad: 3376
+talk: 3325
+dond: 3159
+would: 3150
+hate: 3125
+make: 3021
